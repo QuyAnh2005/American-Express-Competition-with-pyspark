@@ -1,4 +1,4 @@
 # Remove all file in each data's folder
-/dataset
-/preocessedDataset
-/optimalDataset
+dataset/
+preocessedDataset/
+optimalDataset/
